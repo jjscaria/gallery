@@ -6,12 +6,12 @@ image_thumbs_loc: "/images/thumbs"
 # google_analytics: "UA-46465113-2"
 
 # UI configs
-title: "Photos by Jithin Jones Scaria"
+title: "Photos by Jithin"
 # subtitle: "See the world through my eyes!"
 author: "Jithin Jones Scaria"
-header:
- title: "Photos"
- subtitle: "by Jithin Scaria"
+# header:
+#  title: "Photos"
+#  subtitle: "by Jithin Scaria"
 # footer:
 #  name: "Hey there, my name is Ram"
 #  bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
